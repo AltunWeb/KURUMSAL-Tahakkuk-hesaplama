@@ -1,0 +1,1 @@
+# KURUMSAL-Tahakkuk-hesaplama
