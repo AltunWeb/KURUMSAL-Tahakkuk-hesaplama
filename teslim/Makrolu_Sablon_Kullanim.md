@@ -1,4 +1,6 @@
-# İcra Takip — Makrolu Boş Şablon
+# İcra Takip — Makrolu Şablon v2
+
+Güncel dosya: `Icra_Takip_Makrolu_v2.xlsm`. VBA kodları dosyaya gömülüdür; kod yapıştırmak, modül eklemek veya kurulum makrosu çalıştırmak gerekmez. Açılış olayı ve düğmeler standart modüle açıkça bağlanmıştır. Kullanılmayan Office 12 referansı kaldırılmış, VBA depolama dizini düzeltilmiş ve olaylara hata yönetimi eklenmiştir.
 
 Excel 2016/2019 masaüstü için beş sayfa: GÜVENLİK, HOUSE, TEMİZLİK, BİTEN, ÇIKAN. Personel ve ödeme verileri boş bırakılmıştır.
 
